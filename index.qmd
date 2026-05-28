@@ -1,9 +1,19 @@
 ---
 title: "Iris Carnahan"
 image: media/headshot.jpeg
+toc: false
 about:
   id: hero-heading
   template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn 
+    href: https://www.linkedin.com/in/iris-carnahan/
+    - text: Github
+    href: https://github.com/iriscarnahan05
+    - test: Email
+    href: mailto:iris.carnahan05@gmail.com
 ---
 
 :::{#hero-heading}
