@@ -13,9 +13,10 @@ website:
       - hobbies.qmd
       - resume.qmd
 
+# supplying just one theme ("yeti")
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
     page-layout: full
